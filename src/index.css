@@ -1,0 +1,9 @@
+.invalid-text {
+    color: red;
+    margin: 2px 0;
+}
+
+.card{
+    width: 400px;
+    margin-top: 30px;
+}
